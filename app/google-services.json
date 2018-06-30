@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "582944700093",
+    "firebase_url": "https://emergency-news-from-twitter.firebaseio.com",
+    "project_id": "emergency-news-from-twitter",
+    "storage_bucket": "emergency-news-from-twitter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582944700093:android:79c9f8edcfee5695",
+        "android_client_info": {
+          "package_name": "com.example.xi.news_recommendation_feature"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582944700093-rcm1vlcr56kli40mdvjo759go4vsjevi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.xi.news_recommendation_feature",
+            "certificate_hash": "170d44b6e37449d71381262d5c250a91d6fb4281"
+          }
+        },
+        {
+          "client_id": "582944700093-7ebpaemro04ag9t671d3pfi77mch4v1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq2N-lpGKs0wBQ6pYwyRcJ1Kinwn0w6oI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582944700093-7ebpaemro04ag9t671d3pfi77mch4v1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
